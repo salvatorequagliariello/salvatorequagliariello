@@ -1,3 +1,3 @@
 - 👋 <Hi, I’m Salvatore>
-- 👀 <I’m interested in beautiful designes and old cars>
+- 👀 <I’m interested in beautiful designs and old cars>
 - 🌱 <I’m currently learning web development>
