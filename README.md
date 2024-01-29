@@ -1,2 +1,2 @@
-- 👋 <Hi, I’m Salvatore>
+- 👋 Hi, my name is Salvatore, a Junior Front-end Developer based in Varese, Italy, and I'm fully committed to the philosophy of life-long learning and the concept that passion and hard-work can lead literally anywhere.
 - 🌱 <I’m currently learning web development>
